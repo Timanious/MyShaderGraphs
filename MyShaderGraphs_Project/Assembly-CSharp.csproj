@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{7ED38936-AD61-50B1-8248-2BBFCCF1B74A}</ProjectGuid>
+    <ProjectGuid>{40398208-492F-1D71-87C0-C7DA5D949655}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -53,74 +53,74 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\__MyShaderGraphs (Tim)\BlackHoleShaders\RotateAroundBlackHole.cs" />
-     <Compile Include="Assets\__MyShaderGraphs (Tim)\CloudShaders\VolumetricCloudsGenerator.cs" />
-     <Compile Include="Assets\__MyShaderGraphs (Tim)\PongShaders\PongShaderExp1\PongShaderExp1.cs" />
-     <Compile Include="Assets\__MyShaderGraphs (Tim)\TerrainCircle\TerrainCircleInput.cs" />
-     <None Include="Assets\__MyShaderGraphs (Tim)\SkyboxShaders\2-ProceduralSky2\OriginalShaderCode\Horizontal Skybox.shader" />
-     <None Include="Assets\__MyShaderGraphs (Tim)\CustomNodes\CustomLighting.hlsl" />
+     <Compile Include="Assets\_ShaderGraphs\BlackHoleShaders\RotateAroundBlackHole.cs" />
+     <Compile Include="Assets\_ShaderGraphs\CloudShaders\VolumetricCloudsGenerator.cs" />
+     <Compile Include="Assets\_ShaderGraphs\PongShaders\PongShaderExp1\PongShaderExp1.cs" />
+     <Compile Include="Assets\_ShaderGraphs\TerrainCircle\TerrainCircleInput.cs" />
+     <None Include="Assets\_ShaderGraphs\SkyboxShaders\2-ProceduralSky2\OriginalShaderCode\Horizontal Skybox.shader" />
+     <None Include="Assets\_ShaderGraphs\CustomNodes\CustomLighting.hlsl" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/NumberFlow/MyShaderGraphs/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/Shaders/ShaderGraph/MyShaderGraphs/MyShaderGraphs_Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/NumberFlow/MyShaderGraphs/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/Shaders/ShaderGraph/MyShaderGraphs/MyShaderGraphs_Project/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Core.Editor">
- <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/NumberFlow/MyShaderGraphs/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+ <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/Shaders/ShaderGraph/MyShaderGraphs/MyShaderGraphs_Project/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Core.Runtime">
- <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/NumberFlow/MyShaderGraphs/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+ <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/Shaders/ShaderGraph/MyShaderGraphs/MyShaderGraphs_Project/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/NumberFlow/MyShaderGraphs/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/Shaders/ShaderGraph/MyShaderGraphs/MyShaderGraphs_Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Lightweight.Runtime">
- <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/NumberFlow/MyShaderGraphs/Library/ScriptAssemblies/Unity.RenderPipelines.Lightweight.Runtime.dll</HintPath>
+ <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/Shaders/ShaderGraph/MyShaderGraphs/MyShaderGraphs_Project/Library/ScriptAssemblies/Unity.RenderPipelines.Lightweight.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Lightweight.Editor">
- <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/NumberFlow/MyShaderGraphs/Library/ScriptAssemblies/Unity.RenderPipelines.Lightweight.Editor.dll</HintPath>
+ <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/Shaders/ShaderGraph/MyShaderGraphs/MyShaderGraphs_Project/Library/ScriptAssemblies/Unity.RenderPipelines.Lightweight.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/NumberFlow/MyShaderGraphs/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/Shaders/ShaderGraph/MyShaderGraphs/MyShaderGraphs_Project/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/NumberFlow/MyShaderGraphs/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/Shaders/ShaderGraph/MyShaderGraphs/MyShaderGraphs_Project/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/NumberFlow/MyShaderGraphs/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/Shaders/ShaderGraph/MyShaderGraphs/MyShaderGraphs_Project/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Postprocessing.Editor">
- <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/NumberFlow/MyShaderGraphs/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+ <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/Shaders/ShaderGraph/MyShaderGraphs/MyShaderGraphs_Project/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/NumberFlow/MyShaderGraphs/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/Shaders/ShaderGraph/MyShaderGraphs/MyShaderGraphs_Project/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
- <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/NumberFlow/MyShaderGraphs/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+ <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/Shaders/ShaderGraph/MyShaderGraphs/MyShaderGraphs_Project/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Sprite.Editor">
- <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/NumberFlow/MyShaderGraphs/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+ <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/Shaders/ShaderGraph/MyShaderGraphs/MyShaderGraphs_Project/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Postprocessing.Runtime">
- <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/NumberFlow/MyShaderGraphs/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+ <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/Shaders/ShaderGraph/MyShaderGraphs/MyShaderGraphs_Project/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Tilemap.Editor">
- <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/NumberFlow/MyShaderGraphs/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/Shaders/ShaderGraph/MyShaderGraphs/MyShaderGraphs_Project/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.ShaderGraph.Editor">
- <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/NumberFlow/MyShaderGraphs/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+ <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/Shaders/ShaderGraph/MyShaderGraphs/MyShaderGraphs_Project/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
- <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/NumberFlow/MyShaderGraphs/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+ <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/Shaders/ShaderGraph/MyShaderGraphs/MyShaderGraphs_Project/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/NumberFlow/MyShaderGraphs/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/Shaders/ShaderGraph/MyShaderGraphs/MyShaderGraphs_Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/NumberFlow/MyShaderGraphs/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/Shaders/ShaderGraph/MyShaderGraphs/MyShaderGraphs_Project/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/NumberFlow/MyShaderGraphs/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/Shaders/ShaderGraph/MyShaderGraphs/MyShaderGraphs_Project/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Hub/Editor/2019.2.0f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -300,13 +300,13 @@
  <HintPath>/Applications/Unity/Hub/Editor/2019.2.0f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
- <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/NumberFlow/MyShaderGraphs/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+ <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/Shaders/ShaderGraph/MyShaderGraphs/MyShaderGraphs_Project/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Editor">
- <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/NumberFlow/MyShaderGraphs/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+ <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/Shaders/ShaderGraph/MyShaderGraphs/MyShaderGraphs_Project/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/NumberFlow/MyShaderGraphs/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>/Users/timcoster/Documents/Unity/ExtraAssets/Shaders/ShaderGraph/MyShaderGraphs/MyShaderGraphs_Project/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>/Applications/Unity/Hub/Editor/2019.2.0f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
