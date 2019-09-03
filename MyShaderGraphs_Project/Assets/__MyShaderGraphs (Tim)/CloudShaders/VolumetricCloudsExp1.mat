@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: VolumetricCloudsExp1
+  m_Shader: {fileID: 4800000, guid: a5fe737b76dcc43dca8bb25a64d8a274, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 1
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - _cloudCutoff: 0.2
+    - _cloudHeight: 5
+    - _cloudSoftness: 0.5
+    - _middleYValue: 8
+    - _noiseScaleLayer1: 1
+    - _noiseScaleLayer2: 2
+    - _taperPower: 0.76
+    m_Colors:
+    - _color: {r: 1, g: 1, b: 1, a: 0}
+    - _uvDirectionScrollSpeed: {r: 0.5, g: 0, b: 0, a: 0}
+--- !u!114 &8633470536083732964
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 1
