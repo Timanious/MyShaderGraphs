@@ -1,5 +1,6 @@
 sceneSetups:
-- path: Assets/_ShaderGraphs/SkyboxShaders/TestScene/TestScene.unity
+- path: Assets/_ShaderGraphs/SkyboxShaders/ProceduralSky/5-ProceduralSky (Complete)/ProceduralSky
+    (TestScene)/TestScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
